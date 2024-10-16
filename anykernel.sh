@@ -11,7 +11,7 @@ do.systemless=0
 do.cleanup=1
 do.cleanuponabort=0
 device.name1=RMX3511
-supported.versions=
+supported.versions=12 - 14
 supported.patchlevels=
 supported.vendorpatchlevels=
 '; } # end properties
