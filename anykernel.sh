@@ -4,7 +4,7 @@
 ### AnyKernel setup
 # global properties
 properties() { '
-kernel.string=Nyx kernel by rifsxd @ github
+kernel.string=FreUMS512 kernel by Veynamer @ github
 do.devicecheck=0
 do.modules=0
 do.systemless=0
